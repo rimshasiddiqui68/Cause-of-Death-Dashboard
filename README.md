@@ -13,3 +13,54 @@ As I explored the data, several key questions emerged for analysis:
 
 To make the insights easier to understand, I created a map visualization, which provides a clear picture of the global trends in causes of death.
 
+## Insights  
+
+- **Cardiovascular and neoplastic diseases** have been the leading causes of mortality over the years across countries.  
+  - In **China**, deaths from these diseases nearly doubled (2.4 million in 1990 to 4.6 million in 2019).  
+  - In **India**, deaths rose from 1.2 million in 1990 to 2.6 million in 2019.  
+  - The increase has been slower in countries like **Russia** and the **United States**.  
+  - Deaths from **neoplasms** also saw significant growth:  
+    - **China**: 1.5 million in 1990 to 2.7 million in 2019.  
+    - **United States**: 0.5 million in 1990 to 0.77 million in 2019.  
+
+- Diseases like **neonatal disorders**, once leading causes of death, are no longer prominent.  
+
+- **Top countries by total deaths**:  
+  - **China**: 265 million deaths (average of 8.8 million).  
+  - **India**: 238 million deaths (average of 7.94 million).  
+  - Followed by the **United States** and **Russia**.  
+
+- **Global death trends**:  
+  - Increased from **43 million in 1990** to **54 million in 2019**.  
+
+- **Causes of death**:  
+  - **Non-communicable diseases (NCDs)** accounted for **74%** of all deaths.  
+  - **Communicable diseases** caused **14%** of deaths.  
+  - **Violent deaths** were relatively rare:  
+    - **1.3%** from suicide.  
+    - Less than **1%** from interpersonal violence (e.g., homicide or battle deaths).  
+
+ - **Top 5 Non-communicable diseases** responsible for mortality:  
+  1. **Cardiovascular diseases** : 448 million deaths.
+  2. **Neoplasms (Cancers)**     : 230 million deaths.
+  3. **Chronic respiratory diseases**  : 105 million deaths.
+  4. **Cirrhosis**                : 37 million deaths.
+  5. **Diabetes mellitus**        : 31 million deaths.
+
+- **Continents with the highest total deaths**:  
+  - **Europe**: 574 million deaths.  
+  - **Africa**: 540 million deaths.  
+
+## Conclusion
+
+1. **Rising Mortality from NCDs**: Cardiovascular diseases, neoplasms, and other non-communicable diseases (NCDs) are the leading causes of death globally, with significant increases in China and India.  
+2. **Shifting Health Priorities**: Neonatal disorders have declined, but chronic diseases like diabetes, respiratory diseases, and cirrhosis are on the rise.  
+3. **Geographical Disparities**: Countries with large populations (China, India) and regions like Europe and Africa have the highest mortality rates, suggesting healthcare and population factors at play.
+
+## Recommendations
+
+1. **Prioritize Preventive Healthcare**: Governments and health organizations should prioritize preventative measures for cardiovascular diseases, cancers, and chronic conditions like diabetes and respiratory diseases. Early detection, lifestyle modifications, and improving access to healthcare could reduce the mortality from these diseases.
+2. **Increase Awareness**: Public health campaigns aimed at educating people about the risks of smoking, poor diet, physical inactivity, and excessive alcohol consumption could help reduce the impact of chronic diseases, especially in emerging economies where lifestyle-related health issues are on the rise.  
+3. **Strengthen Healthcare Systems**: Investment in healthcare infrastructure is vital, especially in developing countries, to address the growing mortality rates. Improving access to essential healthcare services, early diagnosis, and treatment for non-communicable diseases could help reduce deaths and improve quality of life across regions.
+
+
